@@ -38,7 +38,7 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
 | LOCATION      | Street address where the crime occurred
 ---
 
-## Objective
+## Objectives
 1. **Crime Frequency by Hour** – Identify peak crime hours.  
 2. **Night Crime Hotspots** – Find which LAPD area reports the most crimes at night (10 PM – 3 AM).  
 3. **Crimes by Victim Age Group** – Categorize crimes by victim age brackets (0–17, 18–25, 26–40, 41–65, 65+).  
@@ -48,27 +48,32 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
 ## Visualizations and Insights  
 
 1. **Crimes by Hour of Occurrence**  
-   - Peak crimes occur around **evening and late-night hours**.  
-   - Suggests higher police presence needed between **6 PM – 2 AM**.  
+   - Peak crimes occur around **12noon**.  
+   - Suggests higher police presence needed between **11AM to 1PM**.  
 
-   *(Example chart to include here from Jupyter Notebook output)*  
+   <img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/be576885-2056-42b2-9952-789b433e11ee" />
+
+  
 
 2. **Top LAPD Area for Night Crimes**  
-   - The **[insert AREA NAME once identified]** had the most reported crimes between **10 PM – 3 AM**.  
+   - The **Central** had the most reported crimes between **10 PM – 3:59 AM**.  
    - Indicates resource prioritization during late hours.  
 
-   *(Bar chart grouped by area)*  
+   <img width="1014" height="604" alt="image" src="https://github.com/user-attachments/assets/6a6d532c-a9ee-4c04-ab55-7f0670bcc758" />
+
+ 
 
 3. **Crimes by Victim Age Group**  
-   - Highest crime incidents against victims aged **18–25**.  
+   - Highest crime incidents against victims aged **26-34**.  
    - Lower but notable crime counts among minors (**0–17**) and elderly (**65+**).  
 
-   *(Bar chart showing crime counts by age bracket)*
+   <img width="713" height="547" alt="image" src="https://github.com/user-attachments/assets/773ceaa5-717d-4128-a29f-2e162927dad1" />
+
 
 ## Results and Findings  
-- The **most common crime hour** was `peak_crime_hour`.  
-- The **highest-risk area for night crime** was `peak_night_crime_location`.  
-- The **18–25 age group** experienced the largest share of crimes.  
+- The **most common crime hour** was `12nn`.  
+- The **highest-risk area for night crime** was `Central`.  
+- The **26-34 age group** experienced the largest share of crimes.  
 - These insights can inform **patrol planning**, **crime prevention strategies**, and **community programs**.  
 
 ---
