@@ -45,15 +45,6 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
 
 ---
 
-## Queries Overview
-1. **Top 5 Assignments by Total Donations (by Donor Type)**  
-   - Aggregates and ranks assignments by donation amount per donor type.  
-
-2. **Highest Impact Assignment per Region**  
-   - Finds the top project in each region by impact score, restricted to projects that received donations.  
-
----
-
 ## Visualizations and Insights  
 
 1. **Crimes by Hour of Occurrence**  
