@@ -106,8 +106,8 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
 ## Setup Instructions
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/la-crime-analysis.git
-   cd la-crime-analysis
+   git clone https://github.com/PointZeroo/Analyzing-Crimes-in-Los-Angeles.git
+   cd crime-analysis
 2. Install dependencies:
    pip install pandas numpy matplotlib seaborn jupyter
 3. Run Jupyter Notebook
