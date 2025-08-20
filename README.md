@@ -49,7 +49,10 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
 
 1. **Crimes by Hour of Occurrence**  
    - Peak crimes occur around **12noon**.  
-   - Suggests higher police presence needed between **11AM to 1PM**.  
+   - Suggests higher police presence needed between **11AM to 1PM**.
+     
+
+
 
    <img width="868" height="547" alt="image" src="https://github.com/user-attachments/assets/be576885-2056-42b2-9952-789b433e11ee" />
 
@@ -59,6 +62,9 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
    - The **Central** had the most reported crimes between **10 PM – 3:59 AM**.  
    - Indicates resource prioritization during late hours.  
 
+
+
+
    <img width="1014" height="604" alt="image" src="https://github.com/user-attachments/assets/6a6d532c-a9ee-4c04-ab55-7f0670bcc758" />
 
  
@@ -66,6 +72,8 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
 3. **Crimes by Victim Age Group**  
    - Highest crime incidents against victims aged **26-34**.  
    - Lower but notable crime counts among minors (**0–17**) and elderly (**65+**).  
+
+
 
    <img width="713" height="547" alt="image" src="https://github.com/user-attachments/assets/773ceaa5-717d-4128-a29f-2e162927dad1" />
 
