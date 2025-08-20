@@ -77,6 +77,7 @@ The dataset (`crimes.csv`) is a modified version of the official **Los Angeles O
 
    <img width="713" height="547" alt="image" src="https://github.com/user-attachments/assets/773ceaa5-717d-4128-a29f-2e162927dad1" />
 
+---
 
 ## Results and Findings  
 - The **most common crime hour** was `12nn`.  
